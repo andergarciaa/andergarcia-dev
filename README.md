@@ -13,7 +13,7 @@ Analista de Datos orientado a la **estrategia de negocio**, con formación espec
 
 ---
 
-### 🚀 Proyectos Estratégicos
+### 🚀 Proyectos Desarrollados
 
 #### **[Lookiero: Optimización de Recomendación mediante GNN](https://github.com/andergarciaa/Lookiero-GNN-UX_Analytics)**
 Diseño y ejecución de un motor de recomendación híbrido orientado a maximizar la retención durante el flujo de alta de usuario.
@@ -21,7 +21,7 @@ Diseño y ejecución de un motor de recomendación híbrido orientado a maximiza
 * **Análisis UX:** Diagnóstico de puntos de fricción en el embudo de captación mediante el estudio de flujos de interacción digital y métricas de comportamiento.
 * **Infraestructura:** Integración de procesos de streaming y arquitecturas escalables para la generación dinámica de estilos en tiempo real.
 
-#### **[BBVA: Simulación Financiera & Deep Learning](https://github.com/andergarciaa/BBVA-RNN-Finance)**
+#### **[BBVA: Simulación Financiera & Deep Learning](https://github.com/Markel233/Verde_Oscuro_Reto9)**
 Modelado cuantitativo avanzado para la valoración de activos financieros complejos bajo escenarios de volatilidad extrema.
 * **Optimización Algorítmica:** Entrenamiento de arquitecturas de Redes Neuronales Recurrentes (RNN) para la reducción del coste computacional en valoraciones de opciones.
 * **Escenarios Probabilísticos:** Generación de proyecciones mediante simulaciones de Monte Carlo para la evaluación de eficiencia operativa.
