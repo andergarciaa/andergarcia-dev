@@ -32,6 +32,12 @@ Desarrollo de un sistema predictivo para la mitigación de cancelaciones hoteler
 * **Enriquecimiento Externo:** Integración de variables meteorológicas a través de la API de AEMET y análisis de sentimiento (NLP) sobre valoraciones de Booking.com.
 * **Modelado Predictivo:** Aplicación de algoritmos de clasificación supervisada para la identificación temprana de riesgos de cancelación.
 
+#### **[Health Analytics: Clasificación de Lesiones Cutáneas](https://github.com/andergarciaa/Health-Analytics-Skin-Cancer)**
+Desarrollo de un sistema de soporte al diagnóstico médico para la detección y clasificación de patologías dermatológicas mediante visión artificial.
+* **Visión Artificial:** Segmentación de lesiones y extracción de características morfológicas basadas en la regla clínica ABCD.
+* **Modelado Clínico:** Implementación y comparativa de algoritmos supervisados (Random Forest, SVM) optimizados para la detección de patologías críticas como el Melanoma.
+* **Evaluación de Impacto:** Análisis avanzado de métricas de diagnóstico (Curvas ROC, AUC y Recall) priorizando la minimización de falsos negativos en entorno sanitario.
+
 ---
 
 ### 🎓 Formación y Especialización
