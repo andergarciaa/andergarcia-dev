@@ -1,4 +1,4 @@
-# Ander García | Business Data Analytics 📊
+# Ander Garcia | Business Data Analytics 📊
 
 Analista de Datos orientado a la **estrategia de negocio**, con formación especializada en **Mondragon Unibertsitatea**. Mi enfoque se centra en el diseño de soluciones analíticas que integran el **Machine Learning** avanzado con infraestructuras de datos escalables para optimizar procesos críticos de decisión.
 
